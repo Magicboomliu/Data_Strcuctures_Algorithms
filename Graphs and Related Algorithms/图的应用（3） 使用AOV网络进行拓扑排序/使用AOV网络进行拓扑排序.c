@@ -62,6 +62,7 @@ typedef struct
   VNode vec[MaxVec];	
 }ALGrahp;
 
+//////////////////////////////////////////////////////////////
 
 void AOV(ALGrahp *G)
 {
